@@ -15,10 +15,6 @@ A template for personal blogger
 - 联系表单功能
 - 彩蛋和交互元素，增加趣味性
 
-## 预览
-
-![网站预览](assets/images/preview.jpg)
-*注：实际使用时请替换为网站截图*
 
 ## 快速开始
 
